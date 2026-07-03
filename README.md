@@ -1,3 +1,3 @@
-# mi-primer-repositorio
+repositorio
 
 Hola, soy Daniel.
